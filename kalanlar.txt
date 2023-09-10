@@ -1,0 +1,21 @@
+Darcey                   Parker                   Fizik                    58.0                     kaldi
+Amara Allen              Eloise                   Kimya Müh               69.4                     kaldi
+Brynn                    Thomas                   Kimya Müh               75.2                     kaldi
+James                    Harper                   Bilgisayar Müh          75.8                     kaldi
+John                     Hunter                   Fizik                    61.2                     kaldi
+William                  Hussain                  Fizik Müh               69.0                     kaldi
+Richard                  Jeff                     Matematik                61.2                     kaldi
+Charles Booth            Hamish                   Bilgisayar Müh          62.4                     kaldi
+Daniel                   Porter                   Fizik Müh               68.0                     kaldi
+Martin                   Hank                     Bilgisayar Müh          79.3                     kaldi
+Kenneth                  Rogers                   Fizik                    59.7                     kaldi
+Tim                      Jack                     Matematik Müh           72.1                     kaldi
+Edward Frankie           Adams                    Fizik                    86.8                     kaldi
+Ronald                   Tate                     Bilgisayar Müh          68.8                     kaldi
+Anthony                  Casper                   Fizik Müh               64.8                     kaldi
+Jo                       Khan                     Matematik Müh           47.8                     kaldi
+Bev                      Cunningham               Kimya Müh               67.8                     kaldi
+Amalia                   Atkinson                 Fizik Müh               70.8                     kaldi
+Marley Sienna            Robertson                Bilgisayar Müh          87.3                     kaldi
+Jemima                   Fox                      Matematik Müh           58.3                     kaldi
+Taylor                   Evans                    Kimya Müh               72.9                     kaldi
