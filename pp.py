@@ -11,4 +11,4 @@ def sifre_olustur(length=6):
 if __name__ == "__main__": 
      password = sifre_olustur() 
 print("Olusturulan sifre:", password) 
-print('bu bir değişikliktir')
+print('bu ikinci değişikliktir')
